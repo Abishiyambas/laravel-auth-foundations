@@ -1,6 +1,6 @@
 # Laravel Auth Foundation
-1.Copy the environment file 
-2. install dependencies:
+# 1.Copy the environment file 
+## 2. install dependencies:
 composer install
 npm install
 Generate the application key:
