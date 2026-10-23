@@ -9,4 +9,4 @@
 ### php artisan migrate
 ## 5. Start the development server:
 ### php artisan serve
-
+### npm run dev
